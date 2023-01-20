@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Arr2CmdArgsCommonsCli/out/artifacts/jar/Arr2CmdArgsCommonsCli.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Arr2CmdArgsCommonsCli/out/artifacts/jar/commons-cli-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

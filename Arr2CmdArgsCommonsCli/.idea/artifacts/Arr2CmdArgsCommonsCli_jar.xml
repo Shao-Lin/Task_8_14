@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Arr2CmdArgsCommonsCli:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jar</output-path>
+    <root id="root">
+      <element id="archive" name="Arr2CmdArgsCommonsCli.jar">
+        <element id="module-output" name="Task_8_Шаблон" />
+      </element>
+      <element id="library" level="project" name="commons-cli:commons-cli:1.4" />
+    </root>
+  </artifact>
+</component>
